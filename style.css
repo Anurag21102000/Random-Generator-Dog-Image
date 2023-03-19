@@ -1,0 +1,9 @@
+#dog{
+  display: flex;
+  justify-content: center;
+}
+body{
+  
+  background-image: url("/silvana-amicone-aCHBgtcE7D8-unsplash.jpg");
+  background-repeat: no-repeat, repeat;
+}
