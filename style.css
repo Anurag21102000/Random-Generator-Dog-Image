@@ -2,6 +2,9 @@
   display: flex;
   justify-content: center;
 }
+h2{
+  text-align: center;
+}
 body{
   
   background-image: url("/silvana-amicone-aCHBgtcE7D8-unsplash.jpg");
