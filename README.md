@@ -1,2 +1,2 @@
-# Rnadom-Generator-Dog-Image
+# Random-Generator-Dog-Image
 First API
